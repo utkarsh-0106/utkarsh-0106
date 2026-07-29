@@ -139,3 +139,11 @@ Python • Flask • Pandas
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarsh-0106&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarsh-0106&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=utkarsh-0106&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-0106&theme=github-compact&hide_border=true)](https://github.com/utkarsh-0106)
