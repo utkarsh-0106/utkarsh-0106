@@ -132,3 +132,11 @@ Python • Flask • Pandas
 
 </tr>
 </table>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh-0106&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+</p>
