@@ -38,10 +38,14 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science undergraduate at **IMS Engineering College (IMSEC)**
+- 🎓 Computer Science undergraduate at **IMS Engineering College (IMSEC)**
 
-💻 Passionate about **Backend Engineering**, **Software Engineering**, **Full Stack Development**, and **Artificial Intelligence**
+- 💻 Passionate about **Backend Engineering**, **Software Engineering**, **Full Stack Development**, and **Artificial Intelligence**
 
-🚀 Building scalable software through real-world projects and continuously improving my problem-solving skills
+- 🚀 Experienced in building backend services, full-stack applications, and AI-powered software through real-world projects
 
-📚 Currently strengthening my knowledge of **Data Structures & Algorithms**, **System Design**, **Backend Architecture**, and **Cloud Technologies**
+- 🧠 Strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, **DBMS**, **Operating Systems**, **Computer Networks**, and **System Design**
+
+- 🌱 Currently deepening my expertise in **Spring Boot**, **Backend Architecture**, **Microservices**, and **Cloud Technologies**
+
+- 🤝 Open to Software Engineering, Backend Development, and Full Stack opportunities
