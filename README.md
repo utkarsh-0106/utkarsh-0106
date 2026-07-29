@@ -171,6 +171,4 @@ I'm always excited to connect, collaborate, and build impactful software.
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=utkarsh-0106&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
