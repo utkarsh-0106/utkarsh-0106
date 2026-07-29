@@ -88,7 +88,7 @@ Analytics platform featuring dashboards, ML predictions, reporting, and institut
 
 Python • Streamlit • SQLite • Scikit-learn
 
-🔗 Live Demo
+🔗 [Live Demo](https://institutional-performance-analytics-system-ujfv7cfx2uwpefuuzdb.streamlit.app/) 
 
 🔗 [Source Code](https://github.com/utkarsh-0106/Institutional-Performance-Analytics-System)
 
@@ -108,9 +108,9 @@ A collection of AI-powered developer utilities designed to improve productivity.
 
 React • Node.js • Express
 
-🔗 Live Demo
+🔗 [Live Demo](https://ai-developer-toolbox-c3ud.vercel.app/) 
 
-🔗 Source Code
+🔗 [Source Code](https://github.com/utkarsh-0106/ai-developer-toolbox)
 
 </td>
 
@@ -124,9 +124,9 @@ Movie recommendation system based on user preferences.
 
 Python • Flask • Pandas
 
-🔗 Live Demo
+🔗 [Live Demo](https://movie-recommendation-system-12-8a23.onrender.com/) 
 
-🔗 Source Code
+🔗 [Source Code](https://github.com/utkarsh-0106/Movie_Recommendation_System)
 
 </td>
 
