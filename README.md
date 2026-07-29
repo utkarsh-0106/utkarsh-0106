@@ -35,3 +35,13 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science undergraduate at **IMS Engineering College (IMSEC)**
+
+💻 Passionate about **Backend Engineering**, **Software Engineering**, **Full Stack Development**, and **Artificial Intelligence**
+
+🚀 Building scalable software through real-world projects and continuously improving my problem-solving skills
+
+📚 Currently strengthening my knowledge of **Data Structures & Algorithms**, **System Design**, **Backend Architecture**, and **Cloud Technologies**
