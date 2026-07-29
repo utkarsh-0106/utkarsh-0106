@@ -56,3 +56,79 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,js,python,cpp,html,css,mysql,mongodb,sqlite,git,github,docker,postman,vscode&perline=9" />
 </p>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+A modern portfolio showcasing my projects, skills, certifications, and software engineering journey.
+
+**Tech Stack**
+
+React • TypeScript • Tailwind CSS • Vite
+
+🔗 [Live Demo](https://portfolio-dqyw-opal.vercel.app/)
+
+🔗 [Source Code](https://github.com/utkarsh-0106/Portfolio)
+
+</td>
+
+<td width="50%">
+
+### 📊 Institutional Performance Analytics System
+
+Analytics platform featuring dashboards, ML predictions, reporting, and institutional insights.
+
+**Tech Stack**
+
+Python • Streamlit • SQLite • Scikit-learn
+
+🔗 Live Demo
+
+🔗 [Source Code](https://github.com/utkarsh-0106/Institutional-Performance-Analytics-System)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Developer Toolbox
+
+A collection of AI-powered developer utilities designed to improve productivity.
+
+**Tech Stack**
+
+React • Node.js • Express
+
+🔗 Live Demo
+
+🔗 Source Code
+
+</td>
+
+<td width="50%">
+
+### 🎬 CineMatch
+
+Movie recommendation system based on user preferences.
+
+**Tech Stack**
+
+Python • Flask • Pandas
+
+🔗 Live Demo
+
+🔗 Source Code
+
+</td>
+
+</tr>
+</table>
