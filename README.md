@@ -148,7 +148,7 @@ Python • Flask • Pandas
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-0106&theme=github-compact&hide_border=true)](https://github.com/utkarsh-0106)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ---
 ---
 
