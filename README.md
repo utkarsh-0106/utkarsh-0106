@@ -150,25 +150,26 @@ Python • Flask • Pandas
 
 ━━━━━━━━━━━━━━━━━━━━━━
 ---
+---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-I'm always excited to connect, collaborate, and build impactful software.
+Building scalable backend systems, full-stack applications, and AI-powered solutions.
 
 <p>
   <a href="https://portfolio-dqyw-opal.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/utkarsh-maheshwari-6b9978266/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:utkarsh.maheshwari0106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+**"Code with purpose. Build with impact."**
 
 </div>
