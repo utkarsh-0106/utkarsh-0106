@@ -62,35 +62,35 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
 
-A modern portfolio showcasing my projects, skills, certifications, and software engineering journey.
+A modern, responsive portfolio website showcasing my software engineering projects, technical skills, certifications, and professional journey.
 
 **Tech Stack**
 
 React • TypeScript • Tailwind CSS • Vite
 
-🔗 [Live Demo](https://portfolio-dqyw-opal.vercel.app/)
+🔗 **[Live Demo](https://portfolio-dqyw-opal.vercel.app/)**
 
-🔗 [Source Code](https://github.com/utkarsh-0106/Portfolio)
+💻 **[Source Code](https://github.com/utkarsh-0106/Portfolio)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Institutional Performance Analytics System
 
-Analytics platform featuring dashboards, ML predictions, reporting, and institutional insights.
+A data-driven analytics platform that provides KPI dashboards, machine learning predictions, institutional benchmarking, and AI-powered insights.
 
 **Tech Stack**
 
 Python • Streamlit • SQLite • Scikit-learn
 
-🔗 [Live Demo](https://institutional-performance-analytics-system-ujfv7cfx2uwpefuuzdb.streamlit.app/) 
+🔗 **[Live Demo](https://institutional-performance-analytics-system-ujfv7cfx2uwpefuuzdb.streamlit.app/)**
 
-🔗 [Source Code](https://github.com/utkarsh-0106/Institutional-Performance-Analytics-System)
+💻 **[Source Code](https://github.com/utkarsh-0106/Institutional-Performance-Analytics-System)**
 
 </td>
 
@@ -98,35 +98,35 @@ Python • Streamlit • SQLite • Scikit-learn
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Developer Toolbox
 
-A collection of AI-powered developer utilities designed to improve productivity.
+A full-stack web application offering AI-powered developer tools to improve productivity and simplify everyday development tasks.
 
 **Tech Stack**
 
-React • Node.js • Express
+React • Node.js • Express.js
 
-🔗 [Live Demo](https://ai-developer-toolbox-c3ud.vercel.app/) 
+🔗 **[Live Demo](https://ai-developer-toolbox-c3ud.vercel.app/)**
 
-🔗 [Source Code](https://github.com/utkarsh-0106/ai-developer-toolbox)
+💻 **[Source Code](https://github.com/utkarsh-0106/ai-developer-toolbox)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 CineMatch
 
-Movie recommendation system based on user preferences.
+An intelligent movie recommendation system that suggests personalized movies based on genres, moods, and user preferences.
 
 **Tech Stack**
 
 Python • Flask • Pandas
 
-🔗 [Live Demo](https://movie-recommendation-system-12-8a23.onrender.com/) 
+🔗 **[Live Demo](https://movie-recommendation-system-12-8a23.onrender.com/)**
 
-🔗 [Source Code](https://github.com/utkarsh-0106/Movie_Recommendation_System)
+💻 **[Source Code](https://github.com/utkarsh-0106/Movie_Recommendation_System)**
 
 </td>
 
