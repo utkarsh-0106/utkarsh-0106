@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Utkarsh Maheshwari</h1>
 
-<!--
-**utkarsh-0106/utkarsh-0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Engineer • Full Stack Developer • AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable backend systems, full-stack applications, and AI-powered solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Backend+Engineer;Full+Stack+Developer;Software+Engineer;AI+Enthusiast;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+</a>
+</p>
