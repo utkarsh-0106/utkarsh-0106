@@ -49,3 +49,10 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
 - 🌱 Currently deepening my expertise in **Spring Boot**, **Backend Architecture**, **Microservices**, and **Cloud Technologies**
 
 - 🤝 Open to Software Engineering, Backend Development, and Full Stack opportunities
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,js,python,cpp,html,css,mysql,mongodb,sqlite,git,github,docker,postman,vscode&perline=9" />
+</p>
