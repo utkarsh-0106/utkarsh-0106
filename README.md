@@ -34,6 +34,10 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
   <a href="mailto:utkarsh.maheshwari0106@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
+  <a href="https://x.com/maheshwari0106">
+    <img src="https://img.shields.io/badge/@maheshwari0106-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ## 👨‍💻 About Me
