@@ -120,17 +120,17 @@ React • Node.js • Express.js
 
 <td width="50%" valign="top">
 
-### 🎬 CineMatch
+### 🤖 Jango
 
-An intelligent movie recommendation system that suggests personalized movies based on genres, moods, and user preferences.
+A private enterprise document assistant that uses RAG to answer questions from uploaded PDFs with source references.
 
 **Tech Stack**
 
-Python • Flask • Pandas
+Python • FastAPI • React • ChromaDB • LangChain • Ollama • Qwen3
 
-🔗 **[Live Demo](https://movie-recommendation-system-12-8a23.onrender.com/)**
+🔗 **[Live Demo](https://enterprise-document-rag-gamma.vercel.app/)**
 
-💻 **[Source Code](https://github.com/utkarsh-0106/Movie_Recommendation_System)**
+💻 **[Source Code](https://github.com/utkarsh-0106/enterprise-document-rag)**
 
 </td>
 
