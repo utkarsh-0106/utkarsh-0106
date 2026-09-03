@@ -128,7 +128,7 @@ A private enterprise document assistant that uses RAG to answer questions from u
 
 Python • FastAPI • React • ChromaDB • LangChain • Ollama • Qwen3
 
-🔗 **[Live Demo](https://enterprise-document-rag-gamma.vercel.app/)**
+🔗 **[Live Demo](https://enterprise-document-iipopko80-utkarsh-0106s-projects.vercel.app/register)**
 
 💻 **[Source Code](https://github.com/utkarsh-0106/enterprise-document-rag)**
 
