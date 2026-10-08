@@ -128,7 +128,7 @@ A private enterprise document assistant that uses RAG to answer questions from u
 
 Python • FastAPI • React • ChromaDB • LangChain • Ollama • Qwen3
 
-💻 **[Source Code](https://github.com/utkarsh-0106/jango-enterprise-document-intelligence)**
+💻 **[Source Code](https://github.com/utkarsh-0106/JANGO-System)**
 
 </td>
 
